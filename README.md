@@ -1,6 +1,7 @@
 # Data Analyst
 
-[Resume](assets/data/ChinmaySuryarao-DataAnalyst.pdf) [Linkedin](linkedin.com/in/chinmay-suryarao)
+* [Resume](assets/data/ChinmaySuryarao-DataAnalyst.pdf)
+* [Linkedin](linkedin.com/in/chinmay-suryarao)
 
 ---
 ## Projects
